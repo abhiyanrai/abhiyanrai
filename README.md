@@ -29,4 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiyanrai&show_icons=true&locale=en" alt="abhiyanrai" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyanrai&" alt="abhiyanrai" /></p>
+
+
 
